@@ -35,7 +35,7 @@ Make sure you have Flutter installed and set up on your machine. If not, you can
 
 ## Screenshots 📸
 
-![To-Do List App Screenshot](assets/images/flutter_app.jpg)
+![To-Do List App Screenshot](assets/img/flutter_app.jpg)
 
 ## Technologies Used ⚙️
 - **Flutter**: For building beautiful UIs natively compiled for mobile.

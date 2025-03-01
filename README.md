@@ -3,17 +3,17 @@
 Welcome to my very first Flutter project! 🎉 This To-Do List app allows users to manage their daily tasks with ease, ensuring productivity and organization. Built with Flutter, this app brings a clean and modern design that’s easy to use and navigate.
 
 ## Features ✨
-- **Add Tasks**: Add new tasks with a simple tap and set priorities.
-- **Edit Tasks**: Modify your tasks anytime you need to update or change them.
-- **Delete Tasks**: Remove completed or unnecessary tasks with a single swipe.
-- **Task List**: View all your tasks in a neat and organized list.
+- **Add Tasks**: Add new tasks with a simple tap.
+- **Edit Tasks**: Modify your tasks anytime you need to update or change them. (In progress)
+- **Delete Tasks**: Remove completed or unnecessary tasks with a single swipe. (In progress)
+- **Task List**: View all your tasks in a neat and organized list. 
 - **Responsive Design**: The app is fully responsive and works perfectly on both phones and tablets.
 
 ## Installation 🚀
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YourUsername/To-do-list-app.git
+   git clone https://github.com/QuesilloLover/To-do-list.git
    ```
 
 2. Navigate to the project folder:
@@ -35,7 +35,7 @@ Make sure you have Flutter installed and set up on your machine. If not, you can
 
 ## Screenshots 📸
 
-![To-Do List App Screenshot](assets/images/screenshot.png)
+![To-Do List App Screenshot](assets/images/flutter_app.jpg)
 
 ## Technologies Used ⚙️
 - **Flutter**: For building beautiful UIs natively compiled for mobile.
@@ -52,7 +52,3 @@ As this is my first project, I welcome any feedback and suggestions. If you'd li
 
 ## License 📜
 This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-Feel free to customize and add any other details specific to your project!
